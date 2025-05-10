@@ -4,8 +4,8 @@
 # Register no.
 # Aim: To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
 
-#AI Tools Required: 
-
+# AI Tools Required: 
+### CHATGPT
 
 # Explanation: 
 Prompt:
@@ -30,6 +30,58 @@ o Notify user of overlapping appointments or free time slots.
 o Suggest daily wellness advice (hydration, exercise, screen-time breaks).
 o Adapt suggestions based on past user preferences and responses.
 
+## Algorithm:
+
+### Step 1: Define the Tasks and Interaction Flow
+- **Task Examples**:
+  1. **Morning Routine**: Set a reminder for wake-up and workout.
+  2. **Work/Study**: Remind the user of important deadlines.
+  3. **Personal**: Remind the user to call family members or friends.
+  4. **Wellness**: Suggest breaks and wellness tips for work productivity.
+  5. **Evening**: Track reading habits or other evening routines.
+  
+### Step 2: Design Prompts for Each Task
+- Write prompts for each task (e.g., adding tasks, setting reminders, offering suggestions).
+- Example Prompt for adding tasks: "Add the task to call Mom at 6 PM."
+
+### Step 3: Develop the Code to Interface with ChatGPT
+- Integrate ChatGPT to accept, track, and modify tasks based on user input.
+
+### Step 4: Simulate User Interaction
+- Run the code where the assistant responds to user queries and updates tasks based on input.
+
+### Step 5: Refine the Prompts and Results
+- Fine-tune the assistant’s responses to ensure helpfulness and efficiency.
+
+## Experiment Walkthrough:
+
+### Scenario 1: Morning Routine Setup
+- **User Input**: "Remind me to wake up at 6:30 AM and do my 20-minute workout."
+- **Expected Output**: "Reminder set: Wake up at 6:30 AM and do your 20-minute workout."
+  - ChatGPT stores this task and reminds the user in the morning.
+  - The assistant could also ask if the user needs help with workout ideas or a checklist.
+
+### Scenario 2: Task with Work/Study Deadline
+- **User Input**: "I need to submit my report by 2 PM."
+- **Expected Output**: "Reminder set: Submit your report by 2 PM."
+  - ChatGPT might offer a prompt: "Would you like me to break down this task into smaller chunks for better time management?"
+  - The assistant could help with prioritizing and organizing the report into key sections.
+
+### Scenario 3: Personal/Family Reminder
+- **User Input**: "Remind me to call Dad at 8 PM."
+- **Expected Output**: "Reminder set: Call Dad at 8 PM."
+  - The assistant might check in the next day and ask, "Did you complete the call to Dad?" to keep track of progress.
+
+### Scenario 4: Wellness Break Reminder
+- **User Input**: "Give me a break suggestion after 90 minutes of work."
+- **Expected Output**: "Suggested Break: After 90 minutes, take a 10-minute walk and drink some water."
+  - ChatGPT also suggests setting a timer: "Would you like me to set a timer for this break?"
+
+### Scenario 5: End-of-Day Review
+- **User Input**: "Review my tasks for today and give me suggestions."
+- **Expected Output**: 
+  - "Here’s your summary for today: 1. Wake up at 6:30 AM, 2. Submit report by 2 PM, 3. Call Dad at 8 PM. Would you like me to suggest improvements or changes for tomorrow?"
+  - The assistant might suggest moving some tasks to the next day based on priorities.
 
 
 # Result: 
