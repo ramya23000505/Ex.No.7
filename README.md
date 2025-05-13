@@ -206,6 +206,7 @@ This assistant is designed to help users plan a complete shopping day routine us
 - 3:00 PM – Take a 5-min rest if tired (sit in a café or fitting room)
 
 👟 Tip: Wear comfortable shoes for long walking
+
 😌 Tip: Avoid impulse buying by sticking to the list
 
 ---
