@@ -5,6 +5,8 @@
 # Aim: 
 To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
 
+---
+
 ## 🛠️ AI Tool Used
 - **ChatGPT** (for generating routine steps and contextual suggestions)
 
@@ -149,7 +151,6 @@ This assistant is designed to help users plan a complete shopping day routine us
 
 **Output:**
 
-```text
 🕘 Morning Routine:
 - 7:30 AM – Wake up and hydrate
 - 7:45 AM – Light breakfast (e.g., toast + juice)
@@ -159,7 +160,6 @@ This assistant is designed to help users plan a complete shopping day routine us
 - 10:00 AM – Review shopping list and budget
 - 10:30 AM – Travel buffer (cab/train)
 - 11:00 AM – Leave for shopping
-```
 
 ---
 
