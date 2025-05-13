@@ -163,7 +163,87 @@ This assistant is designed to help users plan a complete shopping day routine us
 
 ---
 
+### ✅ Step 2: Shopping Plan by Category
 
+**Prompt:** 
+> Help me organize my shopping trip. I want to buy 2 casual outfits and 3 accessories within ₹5000. I prefer pastel colors and minimal styles.
+
+**Output:**
+
+🛍️ Shopping Breakdown:
+
+💸 Budget Allocation (₹5,000):
+- Tops (pastel, casual) – ₹1,200
+- Bottoms (jeans, skirts) – ₹1,300
+- Accessories (bag, earrings, watch) – ₹1,500
+- Buffer for deals/savings – ₹1,000
+
+🛒 Suggested Items:
+1. White crop top + blue jeans
+2. Pink t-shirt + neutral skirt
+3. Beige sling bag, pearl earrings, rose gold watch
+
+📍 Recommended Stores:
+- Max, Pantaloons, Lifestyle (Offline)
+- Myntra, Ajio (Online price comparison)
+
+🎯 Tips:
+- Mix & match for more combinations
+- Look for combo deals or flat 50% racks
+
+---
+
+### ✅ Step 3:  Midday Break / Wellness Check
+
+**Prompt:** 
+> I’ll be shopping from 11 AM to 4 PM. Remind me to take care of myself during the trip.
+
+**Output:**
+
+🧘‍♀️ Wellness Reminders During Shopping:
+- 1:00 PM – Take a 30-min break, eat something light (salad, smoothie)
+- 1:30 PM – Hydrate: Carry a water bottle or buy bottled water
+- 3:00 PM – Take a 5-min rest if tired (sit in a café or fitting room)
+
+👟 Tip: Wear comfortable shoes for long walking
+😌 Tip: Avoid impulse buying by sticking to the list
+
+---
+
+### ✅ Step 4:  Return and Review
+
+**Prompt:** 
+> Help me plan my return routine after shopping and how to review what I bought.
+
+**Output:**
+
+🚕 Return Routine:
+- 4:30 PM – Travel back home
+- 5:30 PM – Unpack items and check receipts
+- 6:00 PM – Try on clothes again and organize in your wardrobe
+- 7:00 PM – List down what worked well & what you’d skip next time
+
+🧾 Optional:
+- Keep tags in case of exchange
+- Take photos for outfit planning
+
+🧘 Evening tip: Rest and hydrate after the trip!
+
+---
+
+# 📌 Summary Table
+
+| Step     | Description                        | Prompt Used                                 | Key Features                      |
+|----------|------------------------------------|---------------------------------------------|-----------------------------------|
+| Step 1   | Morning Routine                    | "Plan my morning routine before going shopping…" | Time scheduling                    |
+| Step 2   | Shopping Plan                      | "Help me organize my shopping trip…"       | Budget + style planning           |
+| Step 3   | Wellness Tips                      | "Remind me to take care of myself…"        | Midday wellness + reminders       |
+| Step 4   | Post-Shopping Review               | "Help me plan my return routine…"          | Organization + Reflection         |
+
+---
+
+### ✅ Conclusion
+This prompt-based assistant successfully simulated a realistic shopping day, guiding the user from preparation through execution and post-review using progressively detailed prompts. The assistant improved in relevance and utility as prompt specificity increased.
 
 # Result: 
 The lab exercise resulted in the creation of a prototype concept for a personal assistant powered by large language models. Students were able to:
